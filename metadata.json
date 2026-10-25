@@ -1,0 +1,6 @@
+{
+  "name": "Адвокат Кривий Ріг — Vesper Lex",
+  "description": "Оперативна правова допомога та захист адвокатеси у Кривому Розі з інтеграцією швидкого запису через Telegram-бот.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
